@@ -1,3 +1,3 @@
 # English School
 
-Only the "Course" page works
+Only the "Course" is for show.
